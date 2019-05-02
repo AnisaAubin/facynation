@@ -1,4 +1,4 @@
-# Forecasting Agricultural and Crop Yield on a **nation**al scale (FACYnation)
+# Forecasting Agricultural and Crop Yield on a **Nation**al scale (FACYNation)
 Repository for the FACYnation project.
 
 This repository is a fork of [Peter Hurley's](https://github.com/DataJavelin/FACYnation) notebooks from the hack day conducted on October 17-18 2018 where we investigated the use of Bayesian inference to the problem of forecasting crop yields. This was part organised by data consultancy [DataJavelin](https://www.datajavelin.com/).
