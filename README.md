@@ -21,6 +21,10 @@ Notebooks:
 
 * [6_Warming_impact.ipynb](6_Warming_impact.ipynb) Investigating impact of temperature increases on fitted two dimensional Gaussian model.
 
+* [7_mean_yield_anoms.ipynb](7_mean_yield_anoms.ipynb) Rerunning the model with mean anomalies.
+
+* [8_mean_yield_fracs.ipynb](8_mean_yield_fracs.ipynb) Rerunning with mean fractional anomalies.
+
 
 ## Literature
 
