@@ -1,0 +1,16 @@
+*.hdf5
+v20220310_tas/*
+build/*
+ceda_rainfall_2022/*
+**.egg-info
+**.ipynb_checkpoints
+**__pycache__
+*.pyc
+*.png
+*.vscode
+*.hdf*
+*.ipynb
+**/.ipynb_checkpoints/**
+*.DS_Store
+.idea
+all_cultivars.csv
